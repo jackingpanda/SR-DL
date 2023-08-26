@@ -1,2 +1,2 @@
 # SR-DL
-Showroom Private Downloader by Dimaskool
+by Dimaskool
