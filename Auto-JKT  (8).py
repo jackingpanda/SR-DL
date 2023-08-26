@@ -40,7 +40,7 @@ def download_stream(streaming_url, output_filename):
 
 def main():
     # Set judul jendela di Windows
-    ctypes.windll.kernel32.SetConsoleTitleW("JKT48 Showroom Automation by Dimaskool © 2023")
+
     
     print("Automation JKT48 New Era Showroom by Dimaskool © 2023\n")
     
