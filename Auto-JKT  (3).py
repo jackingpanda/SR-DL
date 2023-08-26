@@ -54,7 +54,7 @@ def main():
                 room_name = get_room_name(room_id)
                 now = datetime.datetime.now()
                 timestamp = now.strftime("%Y-%m-%d")
-                output_filename = f"downloadsJKT48/Live Showroom-{room_name}_{timestamp}.mp4"
+                output_filename = f"content/drive/MyDrive/HDD-DIMAS/SHOWROOM/downloadsJKT48/Live Showroom-{room_name}_{timestamp}.mp4"
 
                 download_stream(streaming_url, output_filename)
                 print(f"Video dari room ID {room_id} berhasil diunduh dengan nama file: {output_filename}")
